@@ -99,10 +99,29 @@ src/
 
 Chaque élément des récits utilisateurs sont présent et fonctionnel selon les demandes du travail pratique.
 
-## **6 - Bonne pratique UI**
+## **6 - Bonne pratique UI et qualité de l'interface**
 
 L'interface utilisateur est simple et facile à utiliser. Les visuels sont conformes aux exigences.
 
 L'utilisation de modals aurait pu être utilisé afin d'améliorer l'affichages du formulaire d'ajout.
 
 Les messages de rupture de stock devraient disparaître après un certain temps ou simplement apparaître en modal. Sur la version actuel, le message reste affiché sur le haut de la page.
+
+## **7 - Bogues de performances**
+
+Aucun Bogues de performances dans l'application. Elle est très bien optimisé!
+
+## **8 - Gestion du GitHub**
+
+Bonne gestion du repo GitHub. Les commits sont claire et il est facile de comprendre les changements.
+
+Très bon Readme!
+
+
+#### Source 
+
+- https://appweb.progwmj.ca/documentations/bonnes-pratiques/revue-code
+
+- https://appweb.progwmj.ca/documentations/bonnes-pratiques/code
+
+- https://appweb.progwmj.ca/documentations/normes
