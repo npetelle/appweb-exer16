@@ -12,4 +12,5 @@ export default defineConfig({
       { text: "Marc-André Bilodeau", link: "/marcandre-bilodeau" },
     ],
   },
+  base: "/appweb-exer16",
 });
