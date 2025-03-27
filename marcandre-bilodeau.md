@@ -1,7 +1,5 @@
 # Revue de code Marc-André Bilodeau
----
 
-# Qualité du code
 ## Utilisation correcte de Vue.js
 Tu as nommé l'un de tes component `HeaderComponent.vue`.
 Étant donné que le fait qu'il est par nature un component, tu n'es pas sensé le mentiionner dans son nom.
@@ -34,7 +32,6 @@ Tu aurais du mettre ton fichier `styles.css` dans un dossier `css`, et ton `main
 ## Gestion des états
 Tout semble ok.
 
-# Contrôle de qualité
 ## Bogues et performances
 Aucun bogue dans ton application.
 ## Qualité de l'interface
@@ -64,3 +61,8 @@ Tu as du franglais dans ton code. Par exemple dans le template de ton `ProductIt
 </template>
 ```
 Cependant le reste de ton interface est en français, en effet, tu parle de **PRICE** et nom de **PRIX**.
+
+# Sources
+[Normes et standards](https://appweb.progwmj.ca/documentations/normes)
+
+[Bonnes pratiques](https://appweb.progwmj.ca/documentations/bonnes-pratiques/code)
