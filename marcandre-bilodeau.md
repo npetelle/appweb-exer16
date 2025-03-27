@@ -1,6 +1,6 @@
 # Revue de code Marc-André Bilodeau
 
-## Qualité du code
+# Qualité du code
 ## Utilisation correcte de Vue.js
 ## Utilisation correcte de TypeScript
 ## Bonnes pratiques de programmation et code propre
@@ -13,10 +13,10 @@
 ## Bonnes pratiques UI 1 à 5
 ## Bonnes pratiques UI 6 à 10
 
-# Contrôle de qualité (10)
-## Bogues et performances 
+# Contrôle de qualité
+## Bogues et performances
 ## Qualité de l'interface
 
-# Déploiement et documentation (10)
+# Déploiement et documentation
 ## Repo correctement créé sur GitHub (fichier README.md)
 ## Application déployée correctement sur GitHub Pages
