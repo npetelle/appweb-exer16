@@ -9,16 +9,8 @@ hero:
   actions:
     - theme: brand
       text: Noé Pételle
-      link: /noe-petelle.md
+      link: /noe-petelle
     - theme: alt
       text: Marc-André Bilodeau
       link: /marcandre-bilodeau
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
