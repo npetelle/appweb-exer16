@@ -1,4 +1,4 @@
-# Revue de code Marc-André Bilodeau
+# Revue de code du TP1 de Marc-André Bilodeau par Noé Pételle
 
 ## Utilisation correcte de Vue.js
 Tu as nommé l'un de tes component `HeaderComponent.vue`.
@@ -35,7 +35,7 @@ Tout semble ok.
 ## Bogues et performances
 Aucun bogue dans ton application.
 ## Qualité de l'interface
-Tu as du franglais dans ton code. Par exemple dans le template de ton `ProductItem.vue`, tu as des boutons en français :
+Ton code est en franglais. Par exemple dans le template de ton `ProductItem.vue`, tu as des boutons en français :
 ```html{15-18}
 <template>
   <div class="product-card bg-dark text-white h-100">
@@ -60,7 +60,7 @@ Tu as du franglais dans ton code. Par exemple dans le template de ton `ProductIt
   </div>
 </template>
 ```
-Cependant le reste de ton interface est en français, en effet, tu parle de **PRICE** et nom de **PRIX**.
+Cependant le reste de ton interface utilisateur est en anglais. En effet, tu parle de **PRICE** et nom de **PRIX** par exemple.
 
 # Sources
 [Normes et standards](https://appweb.progwmj.ca/documentations/normes)
